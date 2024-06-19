@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Meena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravmeee" alt="gauravmeee" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravmeee" alt="gauravmeee" /></a> </p>--->
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://linkedin.com/in/gauravmeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravmeee" height="30" width="40" /></a> @gauravmeee <br>
 
 <a href="https://www.hackerrank.com/gauravmeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravmeee" height="30" width="40" /></a> @gauravmeeen <br>
 
