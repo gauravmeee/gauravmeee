@@ -9,7 +9,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently Advanicng in **MERN Devlopment**
 
-- 👨‍💻 This is my portfolio [gkmeena.netlify.com](gkmeena.netlify.com)
+- 👨‍💻 This is my portfolio [gkmeena.netlify.com](https://gkmeena.netlify.app/)
 
 - 📫 Reach me through **gaurav28.official@gmail.com**
 
