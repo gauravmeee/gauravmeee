@@ -7,13 +7,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravmeee" alt="gauravmeee" /></a> </p>--->
 
-- 🌱 I’m currently Advanicng in **MERN Devlopment**
+- <h3> 🌱 I’m currently Advanicng in <strong>MERN Devlopment</strong> </h3>
 
-- 👨‍💻 This is my portfolio [gkmeena.netlify.com](https://gkmeena.netlify.app/)
+- <h3> 👨‍💻 This is My <a href="https://gkmeena.netlify.app/">Portfolio website</a> </h3>
 
-- 📫 Reach me through **gaurav28.official@gmail.com**
+- <h3> 📫 Reach me through the  <a href="mailto:gaurav28.official@gmail.com">Email id</a> </h3>
 
-- 📄 Resume [https://drive.google.com/file/d/1o74OTbcjWq62jN6HZe21Y4ZLVzUAy8_m/view?usp=drive_link](https://drive.google.com/file/d/1o74OTbcjWq62jN6HZe21Y4ZLVzUAy8_m/view?usp=drive_link)
+- <h3> 📄 Here is <a href="https://drive.google.com/file/d/1o74OTbcjWq62jN6HZe21Y4ZLVzUAy8_m/view?usp=drive_link](https://drive.google.com/file/d/1o74OTbcjWq62jN6HZe21Y4ZLVzUAy8_m/view?usp=drive_link">Resume link</a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
